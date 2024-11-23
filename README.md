@@ -76,8 +76,8 @@
         </section>
         <section id="contact" class="section">
             <h2>Contact</h2>
-            <p>Email: <a href="mailto:lauren.tan@example.com">lauren.tan@example.com</a></p>
-            <p>LinkedIn: <a href="https://linkedin.com/in/laurentan" target="_blank">linkedin.com/in/laurentan</a></p>
+            <p>Email: <a href="mailto:laurentan888@gmail.com">lauren.tan@example.com</a></p>
+            <p>LinkedIn: <a href="www.linkedin.com/in/lauren-tan19/" target="_blank">linkedin.com/in/laurentan</a></p>
         </section>
     </div>
     <footer>
