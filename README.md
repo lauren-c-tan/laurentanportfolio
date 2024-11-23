@@ -38,6 +38,9 @@
         .section {
             margin-bottom: 40px;
         }
+        .project {
+            margin-bottom: 20px;
+        }
         footer {
             text-align: center;
             padding: 10px;
@@ -64,11 +67,46 @@
         </section>
         <section id="projects" class="section">
             <h2>Projects</h2>
-            <ul>
-                <li>Project 1: High-efficiency Solar Inverter (Brief description)</li>
-                <li>Project 2: PCB Design for IoT Devices (Brief description)</li>
-                <li>Project 3: Electric Vehicle Battery Management System (Brief description)</li>
-            </ul>
+            <div class="project">
+                <h3>DELTA - Wearable Gesture Controller</h3>
+                <p><strong>Fall Quarter 2024 - Present</strong></p>
+                <ul>
+                    <li>Currently designing a wearable device that can detect motion for creating sign language.</li>
+                    <li>Uses five sensors connected at the fingertips, with code written for each letter, to identify and display letters onto an interface.</li>
+                </ul>
+            </div>
+            <div class="project">
+                <h3>Morselator (Morse Code/Hex Translator)</h3>
+                <p><strong>Fall Quarter 2024</strong></p>
+                <ul>
+                    <li>Designed and programmed a mock IoT product using Altium and a PSoC project.</li>
+                    <li>Translates words into Morse code through live transcription in the PuTTY terminal.</li>
+                </ul>
+            </div>
+            <div class="project">
+                <h3>Autonomous Car</h3>
+                <p><strong>Spring Quarter 2023</strong></p>
+                <ul>
+                    <li>Built an autonomous vehicle using an Arduino Uno Microcontroller, ultrasonic sensor, Infrared Sensor (IR), and switches.</li>
+                    <li>Programmed features including Lane Tracking, Automatic Braking, and Obstacle Detection.</li>
+                </ul>
+            </div>
+            <div class="project">
+                <h3>Audio Tracking RSLK Robot</h3>
+                <p><strong>Spring Quarter 2023</strong></p>
+                <ul>
+                    <li>Designed and implemented a dual microphone amplifier circuit attached to an RSLK Robot.</li>
+                    <li>Programmed the robot in C to detect and move toward audio sources, including forward, back, left, and right.</li>
+                </ul>
+            </div>
+            <div class="project">
+                <h3>PH Neutralizing Dispenser</h3>
+                <p><strong>Fall Quarter 2021</strong></p>
+                <ul>
+                    <li>Utilized an Arduino Uno Microcontroller, color sensor, LEDs, LCD motor, pH paper, and 3D printing.</li>
+                    <li>Created the circuit design and programmed the dispenser to detect water acidity and dispense the correct amount of neutralizer, aiding isolated communities affected by acid runoff.</li>
+                </ul>
+            </div>
         </section>
         <section id="resume" class="section">
             <h2>Resume</h2>
@@ -76,8 +114,8 @@
         </section>
         <section id="contact" class="section">
             <h2>Contact</h2>
-            <p>Email: <a href="mailto:laurentan888@gmail.com">lauren.tan@example.com</a></p>
-            <p>LinkedIn: <a href="www.linkedin.com/in/lauren-tan19/" target="_blank">linkedin.com/in/laurentan</a></p>
+            <p>Email: <a href="mailto:laurentan888@gmail.com">laurentan888@gmail.com</a></p>
+            <p>LinkedIn: <a href="https://linkedin.com/in/laurentan" target="_blank">linkedin.com/in/laurentan</a></p>
         </section>
     </div>
     <footer>
@@ -85,3 +123,6 @@
     </footer>
 </body>
 </html>
+
+
+   
